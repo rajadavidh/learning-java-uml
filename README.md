@@ -2,7 +2,7 @@
 Examples for learning to translate UML diagram into Java code
 
 ### UML Diagram
-![Faculty Information System](https://github.com/rajadavidh/learning-java-uml/blob/master/img/umlFacultyInformationSystem.png)
+![Faculty Information System](https://github.com/rajadavidh/learning-java-uml/blob/master/img/umlFacultyInformationSystem.jpg)
 
 ### Directory structure
 ```
